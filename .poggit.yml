@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Willtom999/PocketmineTest
+branches:
+- master
+projects:
+  PocketmineTest:
+    path: ""
+...
