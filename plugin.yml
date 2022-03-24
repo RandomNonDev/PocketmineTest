@@ -1,1 +1,6 @@
-
+name: PocketmineTest
+description: Test Pocketmine
+api: 4.0.0
+version: 1.0.0
+main: willtom\pocketminetest\main
+author: Willtom
