@@ -1,5 +1,5 @@
-name: pocketminetest
-description: Test Pocketmine
+name: pmmptest
+description: Test PMMP PL
 api: 4.0.0
 version: 1.0.0
 main: willtom\pocketminetest\main
